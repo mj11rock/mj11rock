@@ -2,6 +2,7 @@
 <h3 align="center">Experienced frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mj11rock&label=Profile%20views&color=0e75b6&style=flat" alt="mj11rock" /> </p>
+[![codewars](https://www.codewars.com/users/fro_gg/badges/large)](https://www.codewars.com/users/fro_gg)
 
 - 🔭 I’m currently working at [Ipak Yuli Bank](https://en.ipakyulibank.uz/physical)
 
