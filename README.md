@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at [Ipak Yuli Bank](https://en.ipakyulibank.uz/physical)
 
-- 📝 I regularly write articles on [typical_ddev](https://t.me/typical_ddev)
+- 📝 I regularly write articles on [islombe dev](t.me/islombe_dev)
 
 - 📫 How to reach me **mj11rock@gmail.com**
 
